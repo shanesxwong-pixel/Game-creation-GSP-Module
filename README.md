@@ -26,7 +26,6 @@ Executing the Game
 You can deploy or directly play the game package by accessing the live hosted production platform:
 text
 https://gsp215-t01-gba.ai.studio/
-Use code with caution.
 
 📊 Version History
 
