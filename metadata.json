@@ -1,0 +1,6 @@
+{
+  "name": "Blokus Nexus: Multiplayer Strategy & Scenarios",
+  "description": "Live multiplayer Blokus board game with real-time lobby matchmaking, chat, 3D tactile board, and dynamic gameplay style visualizers for Destructive, Collaborative, and Last Tile Challenge scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
